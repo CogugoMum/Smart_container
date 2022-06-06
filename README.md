@@ -11,8 +11,8 @@
 ![contributors](https://img.shields.io/github/contributors/thomas-yanxin/Smart_container)  
 简体中文 | [English](./README_EN.md) | [gitee 支持国产](https://gitee.com/E_Light/Smart_container) | [github](https://github.com/thomas-yanxin/Smart_container)
 > 求求了，点个Star![T_ZKW6KJ_X{% %P_AY$`( X](https://user-images.githubusercontent.com/58030051/158103704-33acf9f4-cedb-4627-9bb5-10bf68e88d6e.png)吧 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=thomas-yanxin/Smart_container&type=Date)](https://star-history.com/#thomas-yanxin/Smart_container&Date)
+<!-- 
+[![Star History Chart](https://api.star-history.com/svg?repos=thomas-yanxin/Smart_container&type=Date)](https://star-history.com/#thomas-yanxin/Smart_container&Date) -->
 ## 😉近期更新😉  
 -  **发布训练代码**：发布模型训练代码及实验结果，以便开发者进行适应性调参工作；
 -  **代码bug修复**： Pipeline部署方式下检索库更新后需重启服务；
@@ -93,20 +93,7 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 
 
 目前处理后的数据集已在[AIStudio](https://aistudio.baidu.com/aistudio/datasetdetail/113685)开源。 </font>
-## 消融实验 ##
- |  model  | num epoch |  batch size/gpu cards |  learning rate  |  use cutout  |  use ssld  |  top1 recall  | 配置文件 |
- | :----: | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.01 | N | N | [98.189%](./exprements/log/98189.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_01.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.01 | Y | N | [98.21%](./exprements/log/98216.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_01_cutout.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4| 0.005 | N | N | [98.201%](./exprements/log/98201.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_005.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4| 0.005 | Y | N | [98.29%](./exprements/log/98291.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_005_cutout.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.001 | Y | N | 98.26% |配置文件|
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.005 | Y | Y | 98.30% | 配置文件|
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.0025 | Y | Y | [98.37%](./exprements/log/98379.log) | 配置文件 |
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.002 | N | Y | [98.38%](./exprements/log/98383.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_dml_002.yaml) |
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.002 | Y | Y | [98.39%]((./exprements/log/98395.log)) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_dml_002_cutout.yaml) |
-<!--  | PP_LCNet_x2_5 | 400 | 128/4 | 0.004 | N | Y | [98.44%](./exprements/log/98442.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_004.yaml) |
- | PP_LCNet_x2_5 | 400 | 128/4 | 0.004 | Y | Y | [98.38%](./exprements/log/98376.log) | [配置文件](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_004_cutout.yaml) | -->
+
 
 **注**:
  1. 本实验均基于 GPU:Tesla V100* 4; CPU:Inter Xeon* 32; RAM:DDR4 128GB 进行训练并测试；
