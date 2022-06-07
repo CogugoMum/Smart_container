@@ -70,13 +70,6 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 
 对于新的未知类别，无需重新训练模型，只需要在检索库补入该类别图像，重新建立检索库，就可以识别该类别。  </font>
 
-### 数据集介绍
-【The first one】:[Products-10K Large Scale Product Recognition Dataset](https://arxiv.org/abs/2006.12634)  
-
-【The second one】:[RP2K: A Large-Scale Retail Product Dataset for Fine-Grained Image Classification](https://www.pinlandata.com/rp2k_dataset)  
-
-**袋鼯麻麻——智能购物平台**基于上述两个数据集，结合爬虫，对此两种数据集进行适应性处理。  
-
 ### 商品部分list
 
 > 	东古酱油一品鲜  
