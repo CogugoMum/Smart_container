@@ -7,7 +7,7 @@
 # 
 # -------------Mainly depends on package analysis results--------------
 
-numpy==1.21.0
+numpy==1.22.0
 opencv_python==4.4.0.46
 PyQt5==5.15.6
 requests==2.25.1
