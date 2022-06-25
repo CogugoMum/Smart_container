@@ -1,6 +1,6 @@
 </div>  
 <div align="center">
-<img src="./image/logo.png" width = "720" height = "320"/>
+<img src="./image/logo.svg" width = "720" height = "320"/>
 </div>  
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/thomas-yanxin/Smart_container)
