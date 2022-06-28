@@ -60,7 +60,7 @@
 PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检测、特征学习和向量检索三个模块组成。该系统从骨干网络选择和调整、损失函数的选择、数据增强、学习率变换策略、正则化参数选择、预训练模型使用以及模型裁剪量化8个方面，采用多种策略，对各个模块的模型进行优化，最终得到在CPU上仅0.2s即可完成10w+库的图像识别的系统。
 
 <div align="center">
-<img src="./image/structure.jpg" width = "1080" height = "540"/>
+<img src="./image/ppshitu.png" width = "1080" height = "540"/>
 </div>
 
 <font size=3 >整个图像识别系统分为三步（[详情见PP-ShiTu训练模块](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.3/docs/zh_CN/models_training/recognition.md)）：  
