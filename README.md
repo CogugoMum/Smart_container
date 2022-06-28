@@ -48,7 +48,7 @@
 
 ## 🍎整体架构🍎
 <div align="center">
-<img src="./image/structure1.png" width = "1080" height = "540"/>
+<img src="./image/structure1.png" width = "1080" height = "480"/>
 </div>
 
 
