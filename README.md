@@ -48,7 +48,7 @@
 
 ## 🍎整体架构🍎
 <div align="center">
-<img src="https://ai-studio-static-online.cdn.bcebos.com/59f875129c854cdfb7cbb3435f5004c37ffed920756b41e5bde49e98c09cd0ab" width = "1080" height = "640"/>
+<img src="./image/structure1.png" width = "1080" height = "540"/>
 </div>
 
 
