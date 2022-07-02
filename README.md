@@ -14,7 +14,7 @@
 <!-- 
 [![Star History Chart](https://api.star-history.com/svg?repos=thomas-yanxin/Smart_container&type=Date)](https://star-history.com/#thomas-yanxin/Smart_container&Date) -->
 ## 😉近期更新😉  
--  **发布训练代码**：发布模型训练代码及实验结果，以便开发者进行适应性调参工作；
+-  **发布训练代码**：发布模型[训练代码](https://github.com/ColugoMum/Goods_Recognition)及[实验结果](https://github.com/ColugoMum/Exprements)，以便开发者进行适应性调参工作；
 -  **代码bug修复**： Pipeline部署方式下检索库更新后需重启服务；
 -  **精度大幅提升**：自采集数据集测试精度高达**99.10%**；
 -  **部署方式优化**：预测速度提升**65**%，基于CPU整体流程控制在**0.9s**左右； 
@@ -27,7 +27,7 @@
 
 ## 适用场景  
 
- >**袋鼯麻麻——智能零售结算平台**致力于为**大型线下零售体验店**提供基于视觉的零售结算方案。
+ >**袋鼯麻麻——智能零售结算平台**致力于为**中小型线下零售体验店**提供基于视觉的零售结算方案。
 
 ## 痛点问题
 
@@ -175,7 +175,7 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 ## ❤️欢迎共建❤️
   我们非常欢迎您为"**袋鼯麻麻——智能零售结算平台**"贡献代码或者提供使用建议。无论您是提出存在bug、修复某个bug或者增加一个新功能，欢迎给我们提交Issue or Pull Requests。
 
-##  <img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/> 引用
+##   <img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/> 引用<img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/>
 ```
 @software{ColugoMum2021,
   author = {Xin Yan, Chen Shen and XuDong Du},
@@ -184,3 +184,19 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
   year = {2021}
 }
 ```
+```
+@misc{cui2021pplcnet,
+      title={PP-LCNet: A Lightweight CPU Convolutional Neural Network}, 
+      author={Cheng Cui and Tingquan Gao and Shengyu Wei and Yuning Du and Ruoyu Guo and Shuilong Dong and Bin Lu and Ying Zhou and Xueying Lv and Qiwen Liu and Xiaoguang Hu and Dianhai Yu and Yanjun Ma},
+      year={2021},
+      eprint={2109.15099},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+## :sunglasses:报道:sunglasses: ##
+1. [OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
+2. [【CSDN】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://blog.csdn.net/PaddlePaddle/article/details/124113836?utm_source=app&app_version=5.3.1&code=app_1562916241&uLinkId=usr1mkqgl919blen)
+3. [【飞桨PaddlePaddle】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/5olzwmAUHBPnAezKw8AnLA)
+4. [【OSC开源社区】高效率、高精度，30分钟上手的识别算法](https://mp.weixin.qq.com/s/YjeQxkhFpxgG9ROHIPBRuA)
+5. [【百度AI】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/wWEd9I4f6LHfSj4GVGfRxQ)
