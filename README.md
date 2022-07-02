@@ -194,7 +194,7 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
       primaryClass={cs.CV}
 }
 ```
-## :sunglasses:报道:sunglasses: ##
+## :sunglasses:相关报道:sunglasses: ##
 1. [OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
 2. [【CSDN】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://blog.csdn.net/PaddlePaddle/article/details/124113836?utm_source=app&app_version=5.3.1&code=app_1562916241&uLinkId=usr1mkqgl919blen)
 3. [【飞桨PaddlePaddle】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/5olzwmAUHBPnAezKw8AnLA)
