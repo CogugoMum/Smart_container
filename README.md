@@ -195,8 +195,9 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 }
 ```
 ## :sunglasses:相关报道:sunglasses: ##
-1. [OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
-2. [【CSDN】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://blog.csdn.net/PaddlePaddle/article/details/124113836?utm_source=app&app_version=5.3.1&code=app_1562916241&uLinkId=usr1mkqgl919blen)
-3. [【飞桨PaddlePaddle】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/5olzwmAUHBPnAezKw8AnLA)
-4. [【OSC开源社区】高效率、高精度，30分钟上手的识别算法](https://mp.weixin.qq.com/s/YjeQxkhFpxgG9ROHIPBRuA)
-5. [【百度AI】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/wWEd9I4f6LHfSj4GVGfRxQ)
+1. [【OpenI启智社区】OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
+2. [【Datawhale】我们做了一个智能零售结算平台](https://mp.weixin.qq.com/s/V8eBkYZvb-mNJtyez7n_Rg)
+3. [【CSDN】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://blog.csdn.net/PaddlePaddle/article/details/124113836?utm_source=app&app_version=5.3.1&code=app_1562916241&uLinkId=usr1mkqgl919blen)
+4. [【飞桨PaddlePaddle】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/5olzwmAUHBPnAezKw8AnLA)
+5. [【OSC开源社区】高效率、高精度，30分钟上手的识别算法](https://mp.weixin.qq.com/s/YjeQxkhFpxgG9ROHIPBRuA)
+6. [【百度AI】智慧零售产业应用实战，30分钟上手的高精度商品识别！](https://mp.weixin.qq.com/s/wWEd9I4f6LHfSj4GVGfRxQ)
