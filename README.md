@@ -135,7 +135,7 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 
 - 大数据可视化分析界面
 	<div align="center">
-<img src="./image/datacenter.jpg" width = "840" height = "480"/>
+<img src="./image/datacenter.jpg" width = "840" height = "400"/>
 </div>  
 
 
