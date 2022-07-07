@@ -97,26 +97,7 @@ For the new unknown category, there is no need to retrain the model, but only ne
 
 
 The processed dataset is now open source in [AIStudio](https://aistudio.baidu.com/aistudio/datasetdetail/113685). </font>
-## Ablation experiments ##
- |  model  | num epoch |  batch size/gpu cards |  learning rate  |  use cutout  |  use ssld  |  top1 recall  | config |
- | :----: | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.01 | N | N | [98.189%](./exprements/log/98189.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_01.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.01 | Y | N | [98.21%](./exprements/log/98216.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_01_cutout.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4| 0.005 | N | N | [98.201%](./exprements/log/98201.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_005.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4| 0.005 | Y | N | [98.29%](./exprements/log/98291.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_005_cutout.yaml) |
- | PP_LCNet_x2_5 | 400 | 256/4 | 0.001 | Y | N | 98.26% |config|
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.005 | Y | Y | 98.30% | config|
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.0025 | Y | Y | [98.37%](./exprements/log/98379.log) | config |
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.002 | N | Y | [98.38%](./exprements/log/98383.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_dml_002.yaml) |
- | PP_LCNet_x2_5 | 400 | 64/4 | 0.002 | Y | Y | [98.39%]((./exprements/log/98395.log)) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_dml_002_cutout.yaml) |
-<!--  | PP_LCNet_x2_5 | 400 | 128/4 | 0.004 | N | Y | [98.44%](./exprements/log/98442.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_004.yaml) |
- | PP_LCNet_x2_5 | 400 | 128/4 | 0.004 | Y | Y | [98.38%](./exprements/log/98376.log) | [config](./exprements/PaddleClas/ppcls/configs/GeneralRecognition/GeneralRecognition_PPLCNet_x2_5_004_cutout.yaml) | -->
 
-**Attention**:
-1. This experiment is based on GPU:Tesla V100* 4; CPU:Inter Xeon* 32; RAM:DDR4 128GB for training and testing;
-2. The experiments are based on the above data set [Retail Product Characteristics Study Data Set](https://aistudio.baidu.com/aistudio/datasetdetail/113685) for training and testing;
-3. Evaluation of RP2K and other large open source data sets of retail products will be carried out soon.
-   
 
 ## 🌍Deployment Mode🌍
 **ColugoMum** has been connected to**Jetson Nano, Windows, linux** system.  
