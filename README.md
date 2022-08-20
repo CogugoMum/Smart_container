@@ -168,7 +168,7 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
 ## ❤️欢迎共建❤️
   我们非常欢迎您为"**袋鼯麻麻——智能零售结算平台**"贡献代码或者提供使用建议。无论您是提出存在bug、修复某个bug或者增加一个新功能，欢迎给我们提交Issue or Pull Requests。
 
-##   <img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/> 引用<img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/>
+##   <img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/> 欢迎引用<img src="https://user-images.githubusercontent.com/48054808/157835276-9aab9d1c-1c46-446b-bdd4-5ab75c5cfa48.png" width="20"/>
 ```
 @INPROCEEDINGS{9851085,
   author={Yan, Xin and Hu, QingChun and Huang, XiaoYue and Shen, Chen},
@@ -178,17 +178,8 @@ PP-ShiTu是一个实用的轻量级通用图像识别系统，主要由主体检
   pages={609-616},
   doi={10.1109/CISCE55963.2022.9851085}}
 ```
-```
-```
-@misc{cui2021pplcnet,
-      title={PP-LCNet: A Lightweight CPU Convolutional Neural Network}, 
-      author={Cheng Cui and Tingquan Gao and Shengyu Wei and Yuning Du and Ruoyu Guo and Shuilong Dong and Bin Lu and Ying Zhou and Xueying Lv and Qiwen Liu and Xiaoguang Hu and Dianhai Yu and Yanjun Ma},
-      year={2021},
-      eprint={2109.15099},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+
+
 ## :sunglasses:相关报道:sunglasses: ##
 1. [【OpenI启智社区】OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
 2. [【Datawhale】我们做了一个智能零售结算平台](https://mp.weixin.qq.com/s/V8eBkYZvb-mNJtyez7n_Rg)
