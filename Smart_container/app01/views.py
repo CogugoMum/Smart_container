@@ -28,10 +28,6 @@ from xpinyin import Pinyin
 
 
 
-
-
-
-
 url = "http://127.0.0.1:18081/recognition/prediction"
 
 # with open(os.path.join(".",  imgpath), 'rb') as file:
@@ -131,7 +127,7 @@ def update():
         fh.close()
 
     os.system('python3 ./PaddleClas/deploy/python/build_gallery.py -c ./PaddleClas/deploy/configs/build_product.yaml -o IndexProcess.data_file="./PaddleClas/dataset/retail/data_update.txt" -o IndexProcess.index_dir="./PaddleClas/dataset/retail/index_update"')
-
+    os.system('sh ./start_server.sh')
 
 
 # 识别模块
