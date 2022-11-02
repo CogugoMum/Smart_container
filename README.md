@@ -14,6 +14,7 @@
 <!-- 
 [![Star History Chart](https://api.star-history.com/svg?repos=thomas-yanxin/Smart_container&type=Date)](https://star-history.com/#thomas-yanxin/Smart_container&Date) -->
 ## 😉近期更新😉  
+-  **项目部署文档**：发布项目[部署文档Demo版](https://github.com/thomas-yanxin/Smart_container/blob/master/docs/deploy.md)，便于开发者能更快部署本项目进行体验；
 -  **发布训练代码**：发布模型[训练代码](https://github.com/ColugoMum/Goods_Recognition)及[实验结果](https://github.com/ColugoMum/Exprements)，以便开发者进行适应性调参工作；
 -  **代码bug修复**： Pipeline部署方式下检索库更新后需重启服务；
 -  **精度大幅提升**：自采集数据集测试精度高达**99.10%**；
