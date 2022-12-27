@@ -14,7 +14,7 @@ PyYAML==6.0
 requests==2.22.0
 scikit_learn==0.23.2
 scipy
-setuptools==45.2.0
+setuptools==65.5.1
 six==1.14.0
 tqdm==4.62.3
 visualdl==2.2.0
